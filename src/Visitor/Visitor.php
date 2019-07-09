@@ -7,7 +7,7 @@
 // | Author: vijay <1937832819@qq.com> 2018-01-11
 // +----------------------------------------------------------------------
 
-namespace vijay\visitor;
+namespace Vijay\Visitor;
 
 class Visitor
 {

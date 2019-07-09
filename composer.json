@@ -1,5 +1,5 @@
 {
-    "name": "galloping-vijay/tools",
+    "name": "galloping-vijay/php-tools",
     "description": "A PHP gadget, including curl request, queue encapsulation, etc.",
     "type": "library",
     "license": "MIT",
@@ -15,9 +15,9 @@
     },
     "autoload": {
         "psr-4": {
-            "vijay\\curl\\": "src/curl",
-            "vijay\\queue\\": "src/queue",
-            "vijay\\visitor\\": "src/visitor"
+            "Vijay\\Curl\\": "src/Curl",
+            "Vijay\\Queue\\": "src/Queue",
+            "Vijay\\Visitor\\": "src/Visitor"
         }
     }
 }

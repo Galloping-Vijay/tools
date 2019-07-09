@@ -7,7 +7,7 @@
 // | Author: vijay <1937832819@qq.com> 2018-01-11
 // +----------------------------------------------------------------------
 
-namespace vijay\queue;
+namespace Vijay\Queue;
 
 class Queue
 {
